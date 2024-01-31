@@ -1,3 +1,5 @@
-This repo is a host of media files for my website ecosystem.
-For readers from China, since Github is a bit slow in China as I can recall, I use jsdelivr to accelerate the access for China.
-The url structure is: https://cdn.jsdelivr.net/gh/ryusoh/imagehost@master/<filename>
+This repo is a host of media files for my static website ecosystem.
+
+The files are uploaded via [PicGo](https://picgo.github.io/PicGo-Doc/en/guide/#picgo-is-here)
+
+[jsdelivr](https://www.jsdelivr.com) (CDN to accelerate Github raw content rendering in China) URL structure: `https://cdn.jsdelivr.net/gh/ryusoh/imagehost@master/<filename>`
