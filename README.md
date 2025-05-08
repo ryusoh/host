@@ -40,7 +40,7 @@ jsDelivr	https://cdn.jsdelivr.net/gh/{user}/{repo}@{branch}/{path}	Works if ISP 
 
 Usage example (ghproxy):
 
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/imagehost/refs/heads/master/DSCF0361-2.jpg">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/imagehost/refs/heads/master/images/DSCF0361-2.jpg">
 
 No new hosting, no login, just a URL swap.
 
@@ -69,7 +69,7 @@ If you later need 100 % reliability inside China, migrate the image folder to 
 
 Add a graceful degradation:
 
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/imagehost/refs/heads/master/DSCF0361-2.jpg"
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/imagehost/refs/heads/master/images/DSCF0361-2.jpg"
      onerror="this.src='https://cdn.staticaly.com/gh/ryusoh/imagehost/master/DSCF0361-2.jpg'">
 
 If the first mirror fails, the browser pulls the second automatically.
