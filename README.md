@@ -22,6 +22,7 @@ Below are the practical options, trade‑offs, and copy‑paste patterns.
 ⸻
 
 1  Why the image breaks in China
+
 	•	raw.githubusercontent.com has been on the GFW block‑list since at least 2019; RST/timeout rates spike unpredictably.  ￼
 	•	The host sits on Fastly (AS54113), another CDN that lost its ICP filing; DNS poisoning and TCP resets are common.  ￼ ￼
 	•	Result: high packet‑loss in most China probes, exactly what your ping table shows.
