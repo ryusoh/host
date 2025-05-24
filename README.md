@@ -11,11 +11,11 @@ Images are my own.
 raw.githubusercontent.com sits on GitHub’s Fastly edge and is intermittently throttled or outright reset by the Great Firewall, so images can vanish for users in China.
 The quickest “zero‑setup” fix is just rewrite the URL to a mirror that fronts GitHub through a China‑reachable CDN, e.g.
 
-https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/imagehost/refs/heads/master/DSCF0361-2.jpg
+https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/imagehost/refs/heads/master/images/DSCF0361-2.jpg
 
 or
 
-https://cdn.staticaly.com/gh/ryusoh/imagehost/master/DSCF0361-2.jpg
+https://cdn.staticaly.com/gh/ryusoh/imagehost/master/images/DSCF0361-2.jpg
 
 Below are the practical options, trade‑offs, and copy‑paste patterns.
 
